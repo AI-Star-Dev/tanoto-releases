@@ -4,9 +4,13 @@
 
 ## Change Log
 
-### 1.0.0 release (2026-05-15)
+### v1.0.0 release (2026-05-15)
 
 - first version released
+
+### v1.0.1 release (2026-05-16)
+
+- fix(notes): adapt markdown code blocks to light and dark themes
 
 ## Screenshorts
 
