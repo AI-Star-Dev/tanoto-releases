@@ -12,6 +12,10 @@
 
 - fix(notes): adapt markdown code blocks to light and dark themes
 
+### v1.0.2 release (2026-05-22)
+
+- security: guard markdown external links
+
 ## Screenshorts
 
 ![clipboard](./screenshots/clipboard.png)
